@@ -1,4 +1,4 @@
-#box {
+.box {
 	height: 600px;
 	width: 600px;
 	margin: 0 auto;
@@ -7,46 +7,28 @@
 .tile {
 	display: inline-block;
 	border-style: solid;
-	border-color: blue;
-	height: 195px;
-	width: 195px;
+	border-color: #cacad4;
+	height: 190px;
+	width: 190px;
 }
 
-#box1 {
-
+.purple {
+	background-color: #6b2cbb;
 }
 
-#box2 {
-	
+.red {
+	background-color: red;
 }
 
-#box3 {
-	
+.blue {
+	background-color: blue;
 }
 
-#box4 {
-	
+.fontSize {
+	font-size: 100px;
+	text-align: center;
 }
 
-#box5 {
-	
-}
-
-#box6 {
-	
-}
-
-#box7 {
-	
-}
-
-#box8 {
-	
-}
-
-#box9 {
-	
-}
 
 
 
