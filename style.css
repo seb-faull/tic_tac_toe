@@ -2,6 +2,7 @@
 	height: 600px;
 	width: 600px;
 	margin: 0 auto;
+	padding-top: 10px;
 }
 
 .tile {
@@ -13,7 +14,7 @@
 }
 
 .purple {
-	background-color: #6b2cbb;
+	background-color: #b483ff;
 }
 
 .red {
@@ -27,8 +28,16 @@
 .fontSize {
 	font-size: 100px;
 	text-align: center;
+    padding-top: 18px;
+    color: #771010;
 }
 
-
+.player-turn {
+    height: 65px;
+    width: 540px;
+	margin: 0 auto;
+	text-align: center;
+	color: #489440;
+}
 
 
